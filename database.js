@@ -1,6 +1,6 @@
 const mariadb = require('mariadb');
 const pool = mariadb.createPool({
-     host: 'svc.gksl2.cloudtype.app:32326', 
+     host: 'svc.gksl2.cloudtype.app:31785', 
      user:'root', 
      password: 'ush030902!',
      connectionLimit: 5,
